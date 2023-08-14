@@ -3,5 +3,6 @@ Welcome to Metis!
  Nov: 
 Login!
 Home!
+Register >
 
 
