@@ -1,2 +1,3 @@
 |_| I agree to receive emails
 Welcome to registration page!
+Enter confirm password: _________________
